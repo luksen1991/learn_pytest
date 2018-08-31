@@ -1,1 +1,3 @@
-{}
+{
+  "twitter_test.py::test_tweet_with_hashtag[#FIRST message-first]": true
+}

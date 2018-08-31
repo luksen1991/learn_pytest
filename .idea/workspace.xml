@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="316fcb39-0909-43b5-99cd-9b57ea42dc98" name="Default Changelist" comment="" />
+    <list default="true" id="316fcb39-0909-43b5-99cd-9b57ea42dc98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/learning_pytest$twitter_test.coverage" NAME="twitter_test Coverage Results" MODIFIED="1535709671393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learning_pytest$Unnamed.coverage" NAME="TwitterTest Coverage Results" MODIFIED="1535710930401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/learning_pytest$Unnamed.coverage" NAME="TwitterTest Coverage Results" MODIFIED="1535711820631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/learning_pytest$Unittests_in_twitter_test_py.coverage" NAME="Unittests in twitter_test.py Coverage Results" MODIFIED="1535709431659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -33,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1913" />
+          <entry key="py" value="2170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1913" />
+          <entry key="Python" value="2170" />
         </counts>
       </usages-collector>
     </session>
@@ -66,7 +70,7 @@
                   <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
-                    <marker date="1535710928000" expanded="true" signature="286:627" ph="..." />
+                    <marker date="1535711791000" expanded="true" signature="286:717" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -93,12 +97,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/twitter_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+                <state relative-caret-position="272">
+                  <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
-                    <marker date="1535710928000" expanded="true" signature="286:627" ph="..." />
-                    <marker date="1535710928000" expanded="true" signature="475:627" ph="..." />
+                    <marker date="1535711791000" expanded="true" signature="286:717" ph="..." />
+                    <marker date="1535711791000" expanded="true" signature="638:713" ph="..." />
+                    <marker date="1535711791000" expanded="true" signature="713:717" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -114,6 +119,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -136,6 +144,7 @@
     <option name="width" value="1400" />
     <option name="height" value="792" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -250,34 +259,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 06m 10s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 07m 51s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 08m 49s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 10m 17s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 10m 32s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 10m 49s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 11m 25s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 20m 29s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="TwitterTest - 2018.08.31 at 12h 21m 48s.xml">
-      <configuration name="TwitterTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="TwitterTest - 2018.08.31 at 12h 22m 11s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 30m 03s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 30m 30s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 32m 43s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 34m 30s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 34m 49s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 35m 08s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 35m 38s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 35m 56s.xml">
+      <configuration name="TwitterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.08.31 at 12h 36m 34s.xml">
       <configuration name="TwitterTest" configurationId="tests" />
     </history-entry>
   </component>
@@ -290,7 +299,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -339,12 +348,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1535710928000" expanded="true" signature="286:627" ph="..." />
-            <marker date="1535710928000" expanded="true" signature="475:627" ph="..." />
+            <marker date="1535711791000" expanded="true" signature="286:717" ph="..." />
+            <marker date="1535711791000" expanded="true" signature="638:713" ph="..." />
+            <marker date="1535711791000" expanded="true" signature="713:717" ph="..." />
           </folding>
         </state>
       </provider>

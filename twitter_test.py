@@ -18,11 +18,15 @@ def test_tweet_long_messafe():
         twitter.tweet_single('test'*41)
     assert twitter.tweets == []
 
-def test_tweet_with_hashtag():
-    twitter= Twitter()
-    message= "Twitter #first Message"
-    twitter.tweet_single(message)
-    assert 'first' in twitter.find_hashtags(message)
+@pytest.mark.parametrize("message,hashtag",(
+    ("Test #first message",'first'),
+    ("#first message",'first'),
+    ("#FIRST message",'FIRST')
+
+))
+def test_tweet_with_hashtag(message,hashtag):
+    twitter=Twitter()
+    assert hashtag in twitter.find_hashtags(message)
 
 
 
