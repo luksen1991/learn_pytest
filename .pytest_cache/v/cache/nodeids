@@ -1,0 +1,6 @@
+[
+  "twitter_test.py::test_twitter_initialization", 
+  "twitter_test.py::test_tweet_single_message", 
+  "twitter_test.py::test_tweet_long_messafe", 
+  "twitter_test.py::test_tweet_with_hashtag"
+]
